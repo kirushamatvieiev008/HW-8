@@ -17,3 +17,24 @@ h3:first-child {
 .yellow {
     color: yellow;
 }
+
+/* a {
+    font-size: 30px;
+    text-decoration: none;
+}
+
+span {
+    font-size: 25px;
+    color: rgb(39, 39, 131);
+} */
+a {
+    font-size: 30px;
+    font-style: italic;
+    text-decoration: none;
+    color: black;
+
+}
+
+a:hover {
+    color:blue;
+}

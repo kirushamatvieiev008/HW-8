@@ -44,3 +44,20 @@ tr:hover {
 tr:nth-child(1) {
     background-color: blueviolet;
 }
+
+a {
+    font-size: 30px;
+    font-style: italic;
+    text-decoration: none;
+    color: black;
+
+}
+
+a:hover {
+    color:blue;
+}
+
+span {
+    font-size: 25px;
+    color: rgb(39, 39, 131);
+} 

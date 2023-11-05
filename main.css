@@ -1,0 +1,46 @@
+table {
+	border-collapse: collapse;
+	border: 5px solid rgb(219, 5, 5);
+    border-radius: 10px !important;
+    font-size: 24px;
+    font-style: italic;
+}
+
+td {
+	border: 1px solid red;
+    text-align: center;
+}
+
+
+.days {
+    background-color: brown;
+    text-transform: uppercase;
+}
+
+.number {
+    background-color: chartreuse;
+    color: black;
+}
+
+.line {
+    background-color: blue;
+    color: black;
+} 
+
+ tr:nth-child(odd) {
+    background-color: blue;
+}
+
+tr:nth-child(even) {
+    background-color: rgb(214, 212, 59);
+}
+
+tr:hover {
+    font-size: 27px;
+    background-color: brown;
+    text-shadow: 3px 2px 4px blueviolet;
+}
+
+tr:nth-child(1) {
+    background-color: blueviolet;
+}
